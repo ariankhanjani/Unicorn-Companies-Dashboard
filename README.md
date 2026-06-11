@@ -9,20 +9,24 @@ The dashboard provides insights into unicorn valuations, industries, geographic 
 > This dashboard is built using a historical unicorn companies dataset covering data available up to **2019**. The visualizations, rankings, valuations, and insights shown in this project reflect the unicorn ecosystem during that period and do **not** represent the current state of the market.
 
 #### 🎥 Dashboard Demo
-![Dashboard Demo](assets\demo.gif)
+![Dashboard Demo](assets/demo.gif)
 
 #### 📸 Dashboard Screenshots Executive Overview
 Most Valuable Companies
-![screenshot](assets\Most-Valuable-Companies.png)
+![screenshot](assets/Most-Valuable-Companies.png)
+
 
 Industry Analysis
-![screenshot](assets\Most-Valuable-Industries.png)
+![screenshot](assets/Most-Valuable-Industries.png)
+
 
 Geographic Distribution
-![screenshot](assets\Each-Country-Startups.png)
+![screenshot](assets/Each-Country-Startups.png)
+
 
 Funding & Industries Insights
-![screenshot](\assets\Hottest-Industries.png)
+![screenshot](assets/Hottest-Industries.png)
+
 
 
 #### 🚀 Project Objectives
