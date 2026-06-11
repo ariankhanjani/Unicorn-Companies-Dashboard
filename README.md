@@ -4,21 +4,26 @@ An interactive Business Intelligence dashboard built with Metabase to explore th
 
 The dashboard provides insights into unicorn valuations, industries, geographic distribution, funding patterns, and growth trends, helping users understand how billion-dollar startups are distributed across the world and which sectors dominate the market. Unicorn companies are privately held startups valued at over $1 billion.
 
-#### s⚠️ **Important Notice**
+#### ⚠️ **Important Notice**
 >
 > This dashboard is built using a historical unicorn companies dataset covering data available up to **2019**. The visualizations, rankings, valuations, and insights shown in this project reflect the unicorn ecosystem during that period and do **not** represent the current state of the market.
 
 #### 🎥 Dashboard Demo
-<p align="center"> <img src="D:\Github-Repo\Unicorn-Companies-Dashboard\screenshots\demo.gif" alt="Dashboard Demo" width="1000"> </p>
+![Dashboard Demo](assets\demo.gif)
 
 #### 📸 Dashboard Screenshots Executive Overview
-<p align="center"> <img src="D:\Github-Repo\Unicorn-Companies-Dashboard\screenshots\Metabase-Top 10 Most Valuable Companies.png" width="1000"> </p>
+Most Valuable Companies
+![screenshot](assets\Most-Valuable-Companies.png)
+
 Industry Analysis
-<p align="center"> <img src="D:\Github-Repo\Unicorn-Companies-Dashboard\screenshots\Metabase-Top 10 Most Valuable Industries By Total Valuation.png" width="1000"> </p>
+![screenshot](assets\Most-Valuable-Industries.png)
+
 Geographic Distribution
-<p align="center"> <img src="D:\Github-Repo\Unicorn-Companies-Dashboard\screenshots\Metabase-Number of Total Startups In Each Country.png" width="1000"> </p>
+![screenshot](assets\Each-Country-Startups.png)
+
 Funding & Industries Insights
-<p align="center"> <img src="D:\Github-Repo\Unicorn-Companies-Dashboard\screenshots\Metabase-Hottest Industries By Total Fudning Amount.png" width="1000"> </p>
+![screenshot](\assets\Hottest-Industries.png)
+
 
 #### 🚀 Project Objectives
 **This dashboard was created to answer questions such as:** 
